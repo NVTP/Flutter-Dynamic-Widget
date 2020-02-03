@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_app1111/views/checkbox_group.dart';
 import 'package:flutter_app1111/views/dynamic_widget.dart';
 
 void main() => runApp(
   MaterialApp(
-    home: DynamicWidget(),
+    home: CheckboxGroup(),
   ),
 );
 
