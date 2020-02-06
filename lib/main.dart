@@ -4,7 +4,7 @@ import 'package:flutter_app1111/views/dynamic_widget.dart';
 
 void main() => runApp(
   MaterialApp(
-    home: CheckboxGroup(),
+    home: DynamicWidget(),
   ),
 );
 
